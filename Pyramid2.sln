@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pyramid2", "Pyramid2\Pyramid2.vcxproj", "{2CB4AAE3-FD43-4A1D-AC68-72DFDED1DBB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CB4AAE3-FD43-4A1D-AC68-72DFDED1DBB2}.Debug|x64.ActiveCfg = Debug|x64
+		{2CB4AAE3-FD43-4A1D-AC68-72DFDED1DBB2}.Debug|x64.Build.0 = Debug|x64
+		{2CB4AAE3-FD43-4A1D-AC68-72DFDED1DBB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{2CB4AAE3-FD43-4A1D-AC68-72DFDED1DBB2}.Debug|x86.Build.0 = Debug|Win32
+		{2CB4AAE3-FD43-4A1D-AC68-72DFDED1DBB2}.Release|x64.ActiveCfg = Release|x64
+		{2CB4AAE3-FD43-4A1D-AC68-72DFDED1DBB2}.Release|x64.Build.0 = Release|x64
+		{2CB4AAE3-FD43-4A1D-AC68-72DFDED1DBB2}.Release|x86.ActiveCfg = Release|Win32
+		{2CB4AAE3-FD43-4A1D-AC68-72DFDED1DBB2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0713DF3-1FF7-420C-8CD3-331051DB86E1}
+	EndGlobalSection
+EndGlobal
